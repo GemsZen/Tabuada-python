@@ -13,3 +13,4 @@ print('{} x {:2} = {}'.format(num, 10, num*10))
 print('-' * 12)
 
 
+
